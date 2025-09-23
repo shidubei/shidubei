@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋, I'm ShiDu from China
+* ☕️ Fun fact: Fitness, Photography
+* 🎯 Interests: Backend in Java. CLoud technologies
 <!--
 **shidubei/shidubei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
