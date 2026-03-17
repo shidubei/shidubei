@@ -4,11 +4,10 @@
 
 <h3>GitHub Analytics</h3>
 
-<p>
+<p align = "center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=shidubei&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117"
     height = "180"
-    width = "50%"
     alt="GitHub Stats"
   />
   <img
