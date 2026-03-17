@@ -1,6 +1,15 @@
 ## Hi there 👋, I'm ShiDu from China
 * ☕️ Fun fact: Fitness, Photography
 * 🎯 Interests: Backend in Java. CLoud technologies
+
+### My Github Stats
+![ShiDu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shidubei)
+
+### The Language I often use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shidubei)
+
+### Activity
+![ShiDu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shidubei)
 <!--
 **shidubei/shidubei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
